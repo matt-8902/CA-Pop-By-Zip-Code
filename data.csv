@@ -1,0 +1,1742 @@
+"zip","city","county","state","pop"
+"90011","Los Angeles","Los Angeles","CA",109414
+"90650","Norwalk","Los Angeles","CA",105886
+"91331","Pacoima","Los Angeles","CA",105799
+"90201","Bell","Los Angeles","CA",102433
+"92335","Fontana","San Bernardino","CA",99284
+"90250","Hawthorne","Los Angeles","CA",96836
+"90805","Long Beach","Los Angeles","CA",96708
+"92336","Fontana","San Bernardino","CA",96575
+"91342","Sylmar","Los Angeles","CA",96487
+"90044","Los Angeles","Los Angeles","CA",96436
+"94565","Pittsburg","Contra Costa","CA",96081
+"90280","South Gate","Los Angeles","CA",95103
+"92503","Riverside","Riverside","CA",94512
+"92683","Westminster","Orange","CA",91376
+"91710","Chino","San Bernardino","CA",90582
+"92704","Santa Ana","Orange","CA",90340
+"92804","Anaheim","Orange","CA",88749
+"91744","La Puente","Los Angeles","CA",87240
+"92376","Rialto","San Bernardino","CA",87027
+"92154","San Diego","San Diego","CA",86811
+"95076","Watsonville","Santa Cruz","CA",86703
+"91911","Chula Vista","San Diego","CA",85365
+"94112","San Francisco","San Francisco","CA",85166
+"93307","Bakersfield","Kern","CA",84809
+"92592","Temecula","Riverside","CA",84418
+"93033","Oxnard","Ventura","CA",83782
+"93722","Fresno","Fresno","CA",83179
+"93727","Fresno","Fresno","CA",82920
+"92126","San Diego","San Diego","CA",82572
+"92509","Riverside","Riverside","CA",81214
+"92345","Hesperia","San Bernardino","CA",80808
+"91335","Reseda","Los Angeles","CA",80524
+"91709","Chino Hills","San Bernardino","CA",79298
+"95823","Sacramento","Sacramento","CA",79272
+"94544","Hayward","Alameda","CA",79235
+"95035","Milpitas","Santa Clara","CA",77562
+"90706","Bellflower","Los Angeles","CA",77529
+"91706","Baldwin Park","Los Angeles","CA",77342
+"93550","Palmdale","Los Angeles","CA",77006
+"95630","Folsom","Sacramento","CA",76973
+"93257","Porterville","Tulare","CA",76923
+"92553","Moreno Valley","Riverside","CA",75830
+"94533","Fairfield","Solano","CA",75635
+"90255","Huntington Park","Los Angeles","CA",75560
+"94587","Union City","Alameda","CA",74601
+"92805","Anaheim","Orange","CA",74413
+"91910","Chula Vista","San Diego","CA",74297
+"94110","San Francisco","San Francisco","CA",74161
+"94536","Fremont","Alameda","CA",73855
+"93274","Tulare","Tulare","CA",73778
+"93306","Bakersfield","Kern","CA",73401
+"93535","Lancaster","Los Angeles","CA",72948
+"92105","San Diego","San Diego","CA",72848
+"90003","Los Angeles","Los Angeles","CA",72741
+"93536","Lancaster","Los Angeles","CA",72383
+"91766","Pomona","Los Angeles","CA",72332
+"93065","Simi Valley","Ventura","CA",72061
+"92882","Corona","Riverside","CA",71581
+"91730","Rancho Cucamonga","San Bernardino","CA",71422
+"92021","El Cajon","San Diego","CA",71321
+"90262","Lynwood","Los Angeles","CA",70936
+"91402","Panorama City","Los Angeles","CA",70686
+"92703","Santa Ana","Orange","CA",70595
+"92114","San Diego","San Diego","CA",70039
+"92880","Corona","Riverside","CA",69720
+"90026","Los Angeles","Los Angeles","CA",69589
+"90631","La Habra","Orange","CA",69502
+"92407","San Bernardino","San Bernardino","CA",69222
+"94558","Napa","Napa","CA",69142
+"92563","Murrieta","Riverside","CA",68128
+"94538","Fremont","Alameda","CA",68111
+"95687","Vacaville","Solano","CA",68069
+"94080","South San Francisco","San Mateo","CA",67597
+"95123","San Jose","Santa Clara","CA",67186
+"92801","Anaheim","Orange","CA",67053
+"94509","Antioch","Contra Costa","CA",66933
+"93230","Hanford","Kings","CA",66800
+"91343","North Hills","Los Angeles","CA",66590
+"92677","Laguna Niguel","Orange","CA",66406
+"90019","Los Angeles","Los Angeles","CA",66245
+"94541","Hayward","Alameda","CA",66056
+"90022","Los Angeles","Los Angeles","CA",65890
+"92115","San Diego","San Diego","CA",65853
+"95624","Elk Grove","Sacramento","CA",65742
+"95127","San Jose","Santa Clara","CA",65686
+"92201","Indio","Riverside","CA",65347
+"95747","Roseville","Placer","CA",65335
+"93906","Salinas","Monterey","CA",65256
+"90037","Los Angeles","Los Angeles","CA",65016
+"94015","Daly City","San Mateo","CA",64887
+"94806","San Pablo","Contra Costa","CA",64410
+"92562","Murrieta","Riverside","CA",64116
+"95206","Stockton","San Joaquin","CA",64034
+"90042","Los Angeles","Los Angeles","CA",63911
+"95758","Elk Grove","Sacramento","CA",63894
+"95020","Gilroy","Santa Clara","CA",63852
+"94501","Alameda","Alameda","CA",63843
+"91732","El Monte","Los Angeles","CA",63572
+"91770","Rosemead","Los Angeles","CA",63425
+"91977","Spring Valley","San Diego","CA",63393
+"90660","Pico Rivera","Los Angeles","CA",63380
+"92627","Costa Mesa","Orange","CA",63212
+"90640","Montebello","Los Angeles","CA",63177
+"94513","Brentwood","Contra Costa","CA",62991
+"92647","Huntington Beach","Orange","CA",62718
+"91950","National City","San Diego","CA",62639
+"95014","Cupertino","Santa Clara","CA",62430
+"95111","San Jose","Santa Clara","CA",62392
+"91702","Azusa","Los Angeles","CA",62348
+"94122","San Francisco","San Francisco","CA",62131
+"95608","Carmichael","Sacramento","CA",61860
+"90731","San Pedro","Los Angeles","CA",61850
+"92346","Highland","San Bernardino","CA",61751
+"90006","Los Angeles","Los Angeles","CA",61698
+"92780","Tustin","Orange","CA",61660
+"90004","Los Angeles","Los Angeles","CA",61586
+"92630","Lake Forest","Orange","CA",61304
+"92404","San Bernardino","San Bernardino","CA",61216
+"91761","Ontario","San Bernardino","CA",61124
+"95112","San Jose","Santa Clara","CA",61060
+"92707","Santa Ana","Orange","CA",61026
+"92570","Perris","Riverside","CA",60944
+"91762","Ontario","San Bernardino","CA",60699
+"93905","Salinas","Monterey","CA",60408
+"95828","Sacramento","Sacramento","CA",60270
+"93312","Bakersfield","Kern","CA",60238
+"93030","Oxnard","Ventura","CA",59755
+"92504","Riverside","Riverside","CA",59556
+"92324","Colton","San Bernardino","CA",59409
+"90066","Los Angeles","Los Angeles","CA",59394
+"93309","Bakersfield","Kern","CA",59378
+"95355","Modesto","Stanislaus","CA",59028
+"90813","Long Beach","Los Angeles","CA",59000
+"90001","Los Angeles","Los Angeles","CA",58975
+"92020","El Cajon","San Diego","CA",58742
+"93117","Goleta","Santa Barbara","CA",58431
+"92057","Oceanside","San Diego","CA",58347
+"92392","Victorville","San Bernardino","CA",58204
+"95051","Santa Clara","Santa Clara","CA",58123
+"93291","Visalia","Tulare","CA",57968
+"92507","Riverside","Riverside","CA",57886
+"95122","San Jose","Santa Clara","CA",57780
+"92071","Santee","San Diego","CA",57511
+"92708","Fountain Valley","Orange","CA",57416
+"93458","Santa Maria","Santa Barbara","CA",57369
+"94087","Sunnyvale","Santa Clara","CA",57219
+"90744","Wilmington","Los Angeles","CA",57206
+"90745","Carson","Los Angeles","CA",56821
+"92027","Escondido","San Diego","CA",56811
+"94109","San Francisco","San Francisco","CA",56677
+"93063","Simi Valley","Ventura","CA",56651
+"92530","Lake Elsinore","Riverside","CA",56511
+"95116","San Jose","Santa Clara","CA",56481
+"92571","Perris","Riverside","CA",56446
+"93436","Lompoc","Santa Barbara","CA",56406
+"92117","San Diego","San Diego","CA",56173
+"92646","Huntington Beach","Orange","CA",55893
+"90034","Los Angeles","Los Angeles","CA",55652
+"92113","San Diego","San Diego","CA",55623
+"91405","Van Nuys","Los Angeles","CA",55384
+"94591","Vallejo","Solano","CA",55334
+"92130","San Diego","San Diego","CA",55316
+"93215","Delano","Kern","CA",55269
+"91406","Van Nuys","Los Angeles","CA",55215
+"92840","Garden Grove","Orange","CA",55186
+"92129","San Diego","San Diego","CA",54986
+"91745","Hacienda Heights","Los Angeles","CA",54975
+"91764","Ontario","San Bernardino","CA",54825
+"90723","Paramount","Los Angeles","CA",54776
+"95670","Rancho Cordova","Sacramento","CA",54648
+"91801","Alhambra","Los Angeles","CA",54479
+"94568","Dublin","Alameda","CA",54420
+"92399","Yucaipa","San Bernardino","CA",54163
+"92234","Cathedral City","Riverside","CA",53961
+"92223","Beaumont","Riverside","CA",53914
+"91786","Upland","San Bernardino","CA",53849
+"92056","Oceanside","San Diego","CA",53845
+"92025","Escondido","San Diego","CA",53772
+"91304","Canoga Park","Los Angeles","CA",53761
+"90220","Compton","Los Angeles","CA",53703
+"93308","Bakersfield","Kern","CA",53702
+"92870","Placentia","Orange","CA",53582
+"95125","San Jose","Santa Clara","CA",53574
+"92701","Santa Ana","Orange","CA",53565
+"95376","Tracy","San Joaquin","CA",53542
+"91344","Granada Hills","Los Angeles","CA",53266
+"90018","Los Angeles","Los Angeles","CA",53256
+"90002","Los Angeles","Los Angeles","CA",53111
+"95350","Modesto","Stanislaus","CA",53098
+"91913","Chula Vista","San Diego","CA",53072
+"93277","Visalia","Tulare","CA",53015
+"90063","Los Angeles","Los Angeles","CA",52951
+"92833","Fullerton","Orange","CA",52922
+"94539","Fremont","Alameda","CA",52802
+"95023","Hollister","San Benito","CA",52646
+"93313","Bakersfield","Kern","CA",52637
+"95648","Lincoln","Placer","CA",52394
+"90221","Compton","Los Angeles","CA",52322
+"94601","Oakland","Alameda","CA",52299
+"93003","Ventura","Ventura","CA",52272
+"91605","North Hollywood","Los Angeles","CA",52210
+"92656","Aliso Viejo","Orange","CA",52124
+"92557","Moreno Valley","Riverside","CA",52089
+"95616","Davis","Yolo","CA",52088
+"95207","Stockton","San Joaquin","CA",51879
+"95037","Morgan Hill","Santa Clara","CA",51652
+"92024","Encinitas","San Diego","CA",51496
+"92069","San Marcos","San Diego","CA",51447
+"92084","Vista","San Diego","CA",51419
+"92505","Riverside","Riverside","CA",51322
+"92584","Menifee","Riverside","CA",51298
+"95124","San Jose","Santa Clara","CA",51170
+"93551","Palmdale","Los Angeles","CA",51085
+"92128","San Diego","San Diego","CA",51066
+"90703","Cerritos","Los Angeles","CA",50963
+"93638","Madera","Madera","CA",50894
+"92691","Mission Viejo","Orange","CA",50782
+"90046","Los Angeles","Los Angeles","CA",50587
+"92886","Yorba Linda","Orange","CA",50545
+"92626","Costa Mesa","Orange","CA",50541
+"94550","Livermore","Alameda","CA",50500
+"92243","El Centro","Imperial","CA",50484
+"90024","Los Angeles","Los Angeles","CA",50288
+"91767","Pomona","Los Angeles","CA",50264
+"95351","Modesto","Stanislaus","CA",50079
+"93304","Bakersfield","Kern","CA",49976
+"92064","Poway","San Diego","CA",49933
+"92026","Escondido","San Diego","CA",49921
+"94553","Martinez","Contra Costa","CA",49699
+"94086","Sunnyvale","Santa Clara","CA",49630
+"94014","Daly City","San Mateo","CA",49515
+"90057","Los Angeles","Los Angeles","CA",49492
+"90638","La Mirada","Los Angeles","CA",49383
+"92028","Fallbrook","San Diego","CA",49380
+"92111","San Diego","San Diego","CA",49369
+"90630","Cypress","Orange","CA",49169
+"91306","Winnetka","Los Angeles","CA",49158
+"92078","San Marcos","San Diego","CA",49034
+"92620","Irvine","Orange","CA",48952
+"92544","Hemet","Riverside","CA",48923
+"90047","Los Angeles","Los Angeles","CA",48883
+"95148","San Jose","Santa Clara","CA",48854
+"95240","Lodi","San Joaquin","CA",48838
+"92127","San Diego","San Diego","CA",48721
+"93611","Clovis","Fresno","CA",48473
+"92122","San Diego","San Diego","CA",48438
+"92109","San Diego","San Diego","CA",48417
+"94577","San Leandro","Alameda","CA",48088
+"94303","Palo Alto","San Mateo","CA",48039
+"90025","Los Angeles","Los Angeles","CA",47967
+"90065","Los Angeles","Los Angeles","CA",47887
+"94116","San Francisco","San Francisco","CA",47823
+"90032","Los Angeles","Los Angeles","CA",47627
+"95336","Manteca","San Joaquin","CA",47612
+"95136","San Jose","Santa Clara","CA",47599
+"90033","Los Angeles","Los Angeles","CA",47583
+"92692","Mission Viejo","Orange","CA",47576
+"90247","Gardena","Los Angeles","CA",47531
+"91352","Sun Valley","Los Angeles","CA",47438
+"95060","Santa Cruz","Santa Cruz","CA",47367
+"93720","Fresno","Fresno","CA",47270
+"91765","Diamond Bar","Los Angeles","CA",47139
+"91748","Rowland Heights","Los Angeles","CA",47084
+"92879","Corona","Riverside","CA",46920
+"92648","Huntington Beach","Orange","CA",46890
+"90620","Buena Park","Orange","CA",46842
+"90023","Los Angeles","Los Angeles","CA",46780
+"95843","Antelope","Sacramento","CA",46709
+"90016","Los Angeles","Los Angeles","CA",46581
+"95008","Campbell","Santa Clara","CA",46513
+"92705","Santa Ana","Orange","CA",46470
+"94560","Newark","Alameda","CA",46276
+"92040","Lakeside","San Diego","CA",46261
+"92843","Garden Grove","Orange","CA",46036
+"95610","Citrus Heights","Sacramento","CA",45995
+"90059","Los Angeles","Los Angeles","CA",45952
+"94566","Pleasanton","Alameda","CA",45910
+"92058","Oceanside","San Diego","CA",45894
+"92506","Riverside","Riverside","CA",45854
+"92009","Carlsbad","San Diego","CA",45827
+"93311","Bakersfield","Kern","CA",45763
+"94551","Livermore","Alameda","CA",45753
+"92410","San Bernardino","San Bernardino","CA",45641
+"91320","Newbury Park","Ventura","CA",45520
+"95403","Santa Rosa","Sonoma","CA",45355
+"95822","Sacramento","Sacramento","CA",45323
+"91367","Woodland Hills","Los Angeles","CA",45282
+"91790","West Covina","Los Angeles","CA",45206
+"92104","San Diego","San Diego","CA",45202
+"92688","Rancho Santa Margarita","Orange","CA",45178
+"93455","Santa Maria","Santa Barbara","CA",45116
+"93010","Camarillo","Ventura","CA",45092
+"92236","Coachella","Riverside","CA",45090
+"91733","South El Monte","Los Angeles","CA",44968
+"90503","Torrance","Los Angeles","CA",44908
+"93446","Paso Robles","San Luis Obispo","CA",44753
+"95307","Ceres","Stanislaus","CA",44736
+"90027","Los Angeles","Los Angeles","CA",44686
+"92867","Orange","Orange","CA",44628
+"90043","Los Angeles","Los Angeles","CA",44627
+"92102","San Diego","San Diego","CA",44500
+"91606","North Hollywood","Los Angeles","CA",44476
+"96003","Redding","Shasta","CA",44475
+"91789","Walnut","Los Angeles","CA",44474
+"95209","Stockton","San Joaquin","CA",44313
+"94403","San Mateo","San Mateo","CA",44300
+"94546","Castro Valley","Alameda","CA",44272
+"94117","San Francisco","San Francisco","CA",44239
+"90241","Downey","Los Angeles","CA",44143
+"93702","Fresno","Fresno","CA",44139
+"94928","Rohnert Park","Sonoma","CA",44103
+"92555","Moreno Valley","Riverside","CA",43957
+"94121","San Francisco","San Francisco","CA",43795
+"94531","Antioch","Contra Costa","CA",43788
+"91387","Canyon Country","Los Angeles","CA",43717
+"92374","Redlands","San Bernardino","CA",43633
+"91360","Thousand Oaks","Ventura","CA",43342
+"92618","Irvine","Orange","CA",43316
+"93726","Fresno","Fresno","CA",43209
+"95678","Roseville","Placer","CA",43132
+"94066","San Bruno","San Mateo","CA",43124
+"94605","Oakland","Alameda","CA",43112
+"94521","Concord","Contra Costa","CA",43103
+"90806","Long Beach","Los Angeles","CA",42817
+"94025","Menlo Park","San Mateo","CA",42788
+"94010","Burlingame","San Mateo","CA",42730
+"95380","Turlock","Stanislaus","CA",42672
+"90242","Downey","Los Angeles","CA",42553
+"95831","Sacramento","Sacramento","CA",42514
+"95762","El Dorado Hills","El Dorado","CA",42494
+"95407","Santa Rosa","Sonoma","CA",42483
+"94901","San Rafael","Marin","CA",42482
+"94134","San Francisco","San Francisco","CA",42471
+"90275","Rancho Palos Verdes","Los Angeles","CA",42421
+"92019","El Cajon","San Diego","CA",42400
+"90501","Torrance","Los Angeles","CA",42335
+"92545","Hemet","Riverside","CA",42248
+"92802","Anaheim","Orange","CA",42248
+"92054","Oceanside","San Diego","CA",42173
+"90604","Whittier","Los Angeles","CA",42063
+"94561","Oakley","Contra Costa","CA",41911
+"95132","San Jose","Santa Clara","CA",41844
+"92308","Apple Valley","San Bernardino","CA",41807
+"95621","Citrus Heights","Sacramento","CA",41757
+"90007","Los Angeles","Los Angeles","CA",41716
+"91016","Monrovia","Los Angeles","CA",41671
+"94804","Richmond","Contra Costa","CA",41510
+"94118","San Francisco","San Francisco","CA",41468
+"91401","Van Nuys","Los Angeles","CA",41412
+"95833","Sacramento","Sacramento","CA",41209
+"90045","Los Angeles","Los Angeles","CA",41149
+"95628","Fair Oaks","Sacramento","CA",41121
+"95210","Stockton","San Joaquin","CA",41117
+"92591","Temecula","Riverside","CA",41107
+"94578","San Leandro","Alameda","CA",41059
+"93292","Visalia","Tulare","CA",41031
+"90815","Long Beach","Los Angeles","CA",41026
+"90605","Whittier","Los Angeles","CA",40957
+"93706","Fresno","Fresno","CA",40936
+"95695","Woodland","Yolo","CA",40857
+"93635","Los Banos","Merced","CA",40759
+"95991","Yuba City","Sutter","CA",40684
+"90278","Redondo Beach","Los Angeles","CA",40649
+"93454","Santa Maria","Santa Barbara","CA",40604
+"95404","Santa Rosa","Sonoma","CA",40474
+"91311","Chatsworth","Los Angeles","CA",40420
+"92253","La Quinta","Riverside","CA",40368
+"93552","Palmdale","Los Angeles","CA",40266
+"91942","La Mesa","San Diego","CA",40205
+"95835","Sacramento","Sacramento","CA",40101
+"91701","Rancho Cucamonga","San Bernardino","CA",40034
+"92231","Calexico","Imperial","CA",40019
+"95129","San Jose","Santa Clara","CA",39828
+"91739","Rancho Cucamonga","San Bernardino","CA",39803
+"92037","La Jolla","San Diego","CA",39724
+"92806","Anaheim","Orange","CA",39719
+"94061","Redwood City","San Mateo","CA",39624
+"90005","Los Angeles","Los Angeles","CA",39479
+"90802","Long Beach","Los Angeles","CA",39453
+"95050","Santa Clara","Santa Clara","CA",39452
+"94611","Oakland","Alameda","CA",39384
+"93637","Madera","Madera","CA",39381
+"90804","Long Beach","Los Angeles","CA",39344
+"92101","San Diego","San Diego","CA",39313
+"92307","Apple Valley","San Bernardino","CA",39273
+"92508","Riverside","Riverside","CA",39225
+"95838","Sacramento","Sacramento","CA",39187
+"90020","Los Angeles","Los Angeles","CA",39102
+"93534","Lancaster","Los Angeles","CA",39088
+"94044","Pacifica","San Mateo","CA",39065
+"92083","Vista","San Diego","CA",39043
+"95926","Chico","Butte","CA",39012
+"95401","Santa Rosa","Sonoma","CA",38986
+"92337","Fontana","San Bernardino","CA",38868
+"90808","Long Beach","Los Angeles","CA",38860
+"93305","Bakersfield","Kern","CA",38725
+"95301","Atwater","Merced","CA",38707
+"93245","Lemoore","Kings","CA",38606
+"90810","Long Beach","Los Angeles","CA",38579
+"94520","Concord","Contra Costa","CA",38568
+"95205","Stockton","San Joaquin","CA",38544
+"90031","Los Angeles","Los Angeles","CA",38535
+"94954","Petaluma","Sonoma","CA",38414
+"91776","San Gabriel","Los Angeles","CA",38410
+"91763","Montclair","San Bernardino","CA",38406
+"94555","Fremont","Alameda","CA",38388
+"93711","Fresno","Fresno","CA",38349
+"95382","Turlock","Stanislaus","CA",38343
+"94606","Oakland","Alameda","CA",38303
+"95826","Sacramento","Sacramento","CA",38256
+"95121","San Jose","Santa Clara","CA",38102
+"93021","Moorpark","Ventura","CA",38063
+"95062","Santa Cruz","Santa Cruz","CA",38028
+"90036","Los Angeles","Los Angeles","CA",37988
+"91104","Pasadena","Los Angeles","CA",37974
+"95691","West Sacramento","Yolo","CA",37906
+"90029","Los Angeles","Los Angeles","CA",37898
+"95765","Rocklin","Placer","CA",37878
+"95120","San Jose","Santa Clara","CA",37774
+"91001","Altadena","Los Angeles","CA",37711
+"93705","Fresno","Fresno","CA",37707
+"95337","Manteca","San Joaquin","CA",37706
+"95128","San Jose","Santa Clara","CA",37665
+"90505","Torrance","Los Angeles","CA",37641
+"91205","Glendale","Los Angeles","CA",37618
+"92543","Hemet","Riverside","CA",37615
+"95928","Chico","Butte","CA",37558
+"92821","Brea","Orange","CA",37529
+"92675","San Juan Capistrano","Orange","CA",37457
+"94590","Vallejo","Solano","CA",37377
+"92831","Fullerton","Orange","CA",37353
+"91350","Santa Clarita","Los Angeles","CA",37350
+"90301","Inglewood","Los Angeles","CA",37291
+"95688","Vacaville","Solano","CA",37227
+"91601","North Hollywood","Los Angeles","CA",37085
+"92139","San Diego","San Diego","CA",37040
+"91326","Northridge","Los Angeles","CA",37035
+"90049","Los Angeles","Los Angeles","CA",36964
+"95993","Yuba City","Sutter","CA",36962
+"92869","Orange","Orange","CA",36913
+"92660","Newport Beach","Orange","CA",36906
+"94404","San Mateo","San Mateo","CA",36905
+"91711","Claremont","Los Angeles","CA",36854
+"95476","Sonoma","Sonoma","CA",36792
+"95667","Placerville","El Dorado","CA",36620
+"93405","San Luis Obispo","San Luis Obispo","CA",36550
+"95660","North Highlands","Sacramento","CA",36472
+"95340","Merced","Merced","CA",36373
+"94588","Pleasanton","Alameda","CA",36316
+"92065","Ramona","San Diego","CA",36309
+"91340","San Fernando","Los Angeles","CA",36227
+"93012","Camarillo","Ventura","CA",36225
+"94952","Petaluma","Sonoma","CA",36184
+"91362","Thousand Oaks","Ventura","CA",36062
+"95126","San Jose","Santa Clara","CA",35988
+"90012","Los Angeles","Los Angeles","CA",35913
+"94040","Mountain View","Santa Clara","CA",35845
+"95825","Sacramento","Sacramento","CA",35825
+"92807","Anaheim","Orange","CA",35777
+"91722","Covina","Los Angeles","CA",35708
+"90266","Manhattan Beach","Los Angeles","CA",35573
+"95820","Sacramento","Sacramento","CA",35477
+"93612","Clovis","Fresno","CA",35450
+"95973","Chico","Butte","CA",35445
+"95821","Sacramento","Sacramento","CA",35430
+"94401","San Mateo","San Mateo","CA",35414
+"90621","Buena Park","Orange","CA",35398
+"91768","Pomona","Los Angeles","CA",35389
+"92394","Victorville","San Bernardino","CA",35365
+"94124","San Francisco","San Francisco","CA",35363
+"91780","Temple City","Los Angeles","CA",35351
+"94621","Oakland","Alameda","CA",35287
+"90260","Lawndale","Los Angeles","CA",35161
+"94583","San Ramon","Contra Costa","CA",35102
+"94523","Pleasant Hill","Contra Costa","CA",35096
+"92706","Santa Ana","Orange","CA",35083
+"92883","Corona","Riverside","CA",35072
+"94115","San Francisco","San Francisco","CA",35004
+"92103","San Diego","San Diego","CA",34878
+"93561","Tehachapi","Kern","CA",34839
+"94114","San Francisco","San Francisco","CA",34754
+"93657","Sanger","Fresno","CA",34723
+"91325","Northridge","Los Angeles","CA",34635
+"94603","Oakland","Alameda","CA",34593
+"96001","Redding","Shasta","CA",34571
+"95361","Oakdale","Stanislaus","CA",34558
+"91007","Arcadia","Los Angeles","CA",34523
+"90277","Redondo Beach","Los Angeles","CA",34506
+"94063","Redwood City","San Mateo","CA",34503
+"91773","San Dimas","Los Angeles","CA",34496
+"92240","Desert Hot Springs","Riverside","CA",34447
+"90062","Los Angeles","Los Angeles","CA",34422
+"92649","Huntington Beach","Orange","CA",34406
+"93955","Seaside","Monterey","CA",34395
+"91206","Glendale","Los Angeles","CA",34386
+"91791","West Covina","Los Angeles","CA",34363
+"92131","San Diego","San Diego","CA",34359
+"91321","Newhall","Los Angeles","CA",34355
+"95348","Merced","Merced","CA",34241
+"92260","Palm Desert","Riverside","CA",34225
+"93060","Santa Paula","Ventura","CA",34181
+"92672","San Clemente","Orange","CA",34110
+"92841","Garden Grove","Orange","CA",34061
+"92881","Corona","Riverside","CA",33996
+"92301","Adelanto","San Bernardino","CA",33967
+"96002","Redding","Shasta","CA",33901
+"91750","La Verne","Los Angeles","CA",33836
+"93422","Atascadero","San Luis Obispo","CA",33806
+"92116","San Diego","San Diego","CA",33767
+"93555","Ridgecrest","Kern","CA",33742
+"91423","Sherman Oaks","Los Angeles","CA",33737
+"90504","Torrance","Los Angeles","CA",33721
+"92595","Wildomar","Riverside","CA",33642
+"92311","Barstow","San Bernardino","CA",33612
+"92551","Moreno Valley","Riverside","CA",33578
+"95901","Marysville","Yuba","CA",33442
+"95358","Modesto","Stanislaus","CA",33345
+"92373","Redlands","San Bernardino","CA",33264
+"93001","Ventura","Ventura","CA",33185
+"91752","Mira Loma","Riverside","CA",33135
+"90601","Whittier","Los Angeles","CA",33058
+"91754","Monterey Park","Los Angeles","CA",33058
+"92220","Banning","Riverside","CA",33014
+"91006","Arcadia","Los Angeles","CA",33012
+"93703","Fresno","Fresno","CA",33000
+"90222","Compton","Los Angeles","CA",32850
+"95356","Modesto","Stanislaus","CA",32842
+"90230","Culver City","Los Angeles","CA",32808
+"90606","Whittier","Los Angeles","CA",32803
+"92583","San Jacinto","Riverside","CA",32692
+"93710","Fresno","Fresno","CA",32625
+"92679","Trabuco Canyon","Orange","CA",32579
+"91351","Canyon Country","Los Angeles","CA",32572
+"95118","San Jose","Santa Clara","CA",32560
+"94526","Danville","Contra Costa","CA",32539
+"94545","Hayward","Alameda","CA",32525
+"95377","Tracy","San Joaquin","CA",32501
+"95341","Merced","Merced","CA",32446
+"93940","Monterey","Monterey","CA",32411
+"90803","Long Beach","Los Angeles","CA",32389
+"91941","La Mesa","San Diego","CA",32384
+"91107","Pasadena","Los Angeles","CA",32364
+"92612","Irvine","Orange","CA",32362
+"95842","Sacramento","Sacramento","CA",32269
+"92124","San Diego","San Diego","CA",32170
+"91604","Studio City","Los Angeles","CA",32117
+"91354","Valencia","Los Angeles","CA",32096
+"90807","Long Beach","Los Angeles","CA",32067
+"94941","Mill Valley","Marin","CA",32013
+"95662","Orangevale","Sacramento","CA",32006
+"92173","San Ysidro","San Diego","CA",31866
+"95482","Ukiah","Mendocino","CA",31847
+"91915","Chula Vista","San Diego","CA",31740
+"90008","Los Angeles","Los Angeles","CA",31739
+"93101","Santa Barbara","Santa Barbara","CA",31624
+"94610","Oakland","Alameda","CA",31496
+"94043","Mountain View","Santa Clara","CA",31488
+"94132","San Francisco","San Francisco","CA",31488
+"91355","Valencia","Los Angeles","CA",31455
+"95632","Galt","Sacramento","CA",31431
+"95661","Roseville","Placer","CA",31327
+"95070","Saratoga","Santa Clara","CA",31308
+"93618","Dinuba","Tulare","CA",31230
+"92123","San Diego","San Diego","CA",31216
+"95131","San Jose","Santa Clara","CA",31170
+"92107","San Diego","San Diego","CA",31148
+"94102","San Francisco","San Francisco","CA",31067
+"90712","Lakewood","Los Angeles","CA",31063
+"91303","Canoga Park","Los Angeles","CA",31053
+"94070","San Carlos","San Mateo","CA",31049
+"93654","Reedley","Fresno","CA",30935
+"92673","San Clemente","Orange","CA",30927
+"93662","Selma","Fresno","CA",30922
+"91607","Valley Village","Los Angeles","CA",30873
+"90302","Inglewood","Los Angeles","CA",30828
+"91356","Tarzana","Los Angeles","CA",30804
+"95472","Sebastopol","Sonoma","CA",30762
+"92203","Indio","Riverside","CA",30744
+"90028","Los Angeles","Los Angeles","CA",30734
+"91746","La Puente","Los Angeles","CA",30708
+"91505","Burbank","Los Angeles","CA",30680
+"94589","Vallejo","Solano","CA",30668
+"91214","La Crescenta","Los Angeles","CA",30654
+"92596","Winchester","Riverside","CA",30573
+"92405","San Bernardino","San Bernardino","CA",30511
+"93004","Ventura","Ventura","CA",30502
+"91803","Alhambra","Los Angeles","CA",30385
+"90680","Stanton","Orange","CA",30321
+"95824","Sacramento","Sacramento","CA",30296
+"94608","Emeryville","Alameda","CA",30289
+"95682","Shingle Springs","El Dorado","CA",30141
+"91731","El Monte","Los Angeles","CA",30139
+"93420","Arroyo Grande","San Luis Obispo","CA",30136
+"94903","San Rafael","Marin","CA",30048
+"92653","Laguna Hills","Orange","CA",29986
+"91316","Encino","Los Angeles","CA",29964
+"94801","Richmond","Contra Costa","CA",29958
+"94580","San Lorenzo","Alameda","CA",29942
+"94602","Oakland","Alameda","CA",29933
+"95492","Windsor","Sonoma","CA",29920
+"92110","San Diego","San Diego","CA",29911
+"94131","San Francisco","San Francisco","CA",29902
+"91792","West Covina","Los Angeles","CA",29839
+"94107","San Francisco","San Francisco","CA",29689
+"95219","Stockton","San Joaquin","CA",29668
+"94549","Lafayette","Contra Costa","CA",29639
+"91324","Northridge","Los Angeles","CA",29617
+"94585","Suisun City","Solano","CA",29599
+"95117","San Jose","Santa Clara","CA",29592
+"90039","Los Angeles","Los Angeles","CA",29589
+"90041","Los Angeles","Los Angeles","CA",29516
+"93035","Oxnard","Ventura","CA",29404
+"95966","Oroville","Butte","CA",29367
+"96150","South Lake Tahoe","El Dorado","CA",29357
+"93704","Fresno","Fresno","CA",29294
+"95603","Auburn","Placer","CA",29244
+"94704","Berkeley","Alameda","CA",29190
+"92120","San Diego","San Diego","CA",29142
+"92694","Ladera Ranch","Orange","CA",29064
+"90713","Lakewood","Los Angeles","CA",29061
+"91384","Castaic","Los Angeles","CA",28842
+"92604","Irvine","Orange","CA",28819
+"92316","Bloomington","San Bernardino","CA",28783
+"94103","San Francisco","San Francisco","CA",28735
+"95133","San Jose","Santa Clara","CA",28726
+"92262","Palm Springs","Riverside","CA",28517
+"96080","Red Bluff","Tehama","CA",28487
+"94518","Concord","Contra Costa","CA",28428
+"91103","Pasadena","Los Angeles","CA",28425
+"95204","Stockton","San Joaquin","CA",28425
+"93401","San Luis Obispo","San Luis Obispo","CA",28423
+"94510","Benicia","Solano","CA",28262
+"95834","Sacramento","Sacramento","CA",28229
+"90710","Harbor City","Los Angeles","CA",28185
+"95829","Sacramento","Sacramento","CA",28134
+"90405","Santa Monica","Los Angeles","CA",28115
+"90035","Los Angeles","Los Angeles","CA",28085
+"95212","Stockton","San Joaquin","CA",28049
+"95969","Paradise","Butte","CA",27967
+"95370","Sonora","Tuolumne","CA",27951
+"93901","Salinas","Monterey","CA",27805
+"94598","Walnut Creek","Contra Costa","CA",27780
+"94062","Redwood City","San Mateo","CA",27757
+"91755","Monterey Park","Los Angeles","CA",27734
+"95961","Olivehurst","Yuba","CA",27728
+"93280","Wasco","Kern","CA",27698
+"92868","Orange","Orange","CA",27693
+"90038","Los Angeles","Los Angeles","CA",27660
+"90061","Los Angeles","Los Angeles","CA",27646
+"94306","Palo Alto","Santa Clara","CA",27549
+"90291","Venice","Los Angeles","CA",27525
+"94559","Napa","Napa","CA",27523
+"93105","Santa Barbara","Santa Barbara","CA",27515
+"90270","Maywood","Los Angeles","CA",27454
+"91364","Woodland Hills","Los Angeles","CA",27340
+"92008","Carlsbad","San Diego","CA",27330
+"95409","Santa Rosa","Sonoma","CA",27312
+"92227","Brawley","Imperial","CA",27255
+"95134","San Jose","Santa Clara","CA",27224
+"94002","Belmont","San Mateo","CA",27202
+"91945","Lemon Grove","San Diego","CA",27193
+"90746","Carson","Los Angeles","CA",26996
+"93725","Fresno","Fresno","CA",26980
+"95363","Patterson","Stanislaus","CA",26900
+"91504","Burbank","Los Angeles","CA",26863
+"92629","Dana Point","Orange","CA",26744
+"95618","El Macero","Yolo","CA",26743
+"90017","Los Angeles","Los Angeles","CA",26728
+"91932","Imperial Beach","San Diego","CA",26701
+"92614","Irvine","Orange","CA",26676
+"91302","Calabasas","Los Angeles","CA",26634
+"91042","Tujunga","Los Angeles","CA",26631
+"93960","Soledad","Monterey","CA",26610
+"91010","Duarte","Los Angeles","CA",26601
+"91307","West Hills","Los Angeles","CA",26595
+"92860","Norco","Riverside","CA",26591
+"90249","Gardena","Los Angeles","CA",26587
+"94947","Novato","Marin","CA",26573
+"91741","Glendora","Los Angeles","CA",26565
+"92411","San Bernardino","San Bernardino","CA",26563
+"94133","San Francisco","San Francisco","CA",26527
+"95032","Los Gatos","Santa Clara","CA",26281
+"94607","Oakland","Alameda","CA",26254
+"95242","Lodi","San Joaquin","CA",26235
+"90240","Downey","Los Angeles","CA",26205
+"94803","El Sobrante","Contra Costa","CA",26165
+"91740","Glendora","Los Angeles","CA",26115
+"91724","Covina","Los Angeles","CA",26091
+"92284","Yucca Valley","San Bernardino","CA",26085
+"92602","Irvine","Orange","CA",26044
+"90602","Whittier","Los Angeles","CA",25981
+"94123","San Francisco","San Francisco","CA",25941
+"91411","Van Nuys","Los Angeles","CA",25801
+"91030","South Pasadena","Los Angeles","CA",25794
+"94402","San Mateo","San Mateo","CA",25764
+"94530","El Cerrito","Contra Costa","CA",25754
+"91301","Agoura Hills","Los Angeles","CA",25631
+"90304","Inglewood","Los Angeles","CA",25591
+"91784","Upland","San Bernardino","CA",25567
+"95945","Grass Valley","Nevada","CA",25519
+"95503","Eureka","Humboldt","CA",25503
+"92532","Lake Elsinore","Riverside","CA",25475
+"90064","Los Angeles","Los Angeles","CA",25429
+"91106","Pasadena","Los Angeles","CA",25375
+"94547","Hercules","Contra Costa","CA",25343
+"91737","Rancho Cucamonga","San Bernardino","CA",25339
+"92211","Palm Desert","Riverside","CA",25339
+"90274","Palos Verdes Peninsula","Los Angeles","CA",25279
+"95677","Rocklin","Placer","CA",25279
+"94506","Danville","Contra Costa","CA",25258
+"95815","Sacramento","Sacramento","CA",25224
+"91403","Sherman Oaks","Los Angeles","CA",25218
+"91775","San Gabriel","Los Angeles","CA",25192
+"95367","Riverbank","Stanislaus","CA",25162
+"92832","Fullerton","Orange","CA",25134
+"93933","Marina","Monterey","CA",25015
+"95003","Aptos","Santa Cruz","CA",24837
+"92651","Laguna Beach","Orange","CA",24746
+"95354","Modesto","Stanislaus","CA",24743
+"92606","Irvine","Orange","CA",24694
+"90303","Inglewood","Los Angeles","CA",24693
+"93041","Port Hueneme","Ventura","CA",24506
+"90740","Seal Beach","Orange","CA",24494
+"95215","Stockton","San Joaquin","CA",24371
+"90403","Santa Monica","Los Angeles","CA",24354
+"94619","Oakland","Alameda","CA",24308
+"95054","Santa Clara","Santa Clara","CA",24264
+"92119","San Diego","San Diego","CA",23990
+"94024","Los Altos","Santa Clara","CA",23961
+"92844","Garden Grove","Orange","CA",23878
+"92835","Fullerton","Orange","CA",23867
+"95864","Sacramento","Sacramento","CA",23733
+"91201","Glendale","Los Angeles","CA",23619
+"94085","Sunnyvale","Santa Clara","CA",23612
+"93610","Chowchilla","Madera","CA",23607
+"92277","Twentynine Palms","San Bernardino","CA",23517
+"95746","Granite Bay","Placer","CA",23492
+"95531","Crescent City","Del Norte","CA",23470
+"95501","Eureka","Humboldt","CA",23467
+"93212","Corcoran","Kings","CA",23424
+"92251","Imperial","Imperial","CA",23388
+"95776","Woodland","Yolo","CA",23375
+"91202","Glendale","Los Angeles","CA",23317
+"96007","Anderson","Shasta","CA",23106
+"90048","Los Angeles","Los Angeles","CA",22892
+"90404","Santa Monica","Los Angeles","CA",22819
+"94609","Oakland","Alameda","CA",22811
+"93907","Salinas","Monterey","CA",22766
+"93203","Arvin","Kern","CA",22744
+"94597","Walnut Creek","Contra Costa","CA",22734
+"94030","Millbrae","San Mateo","CA",22710
+"92782","Tustin","Orange","CA",22704
+"92108","San Diego","San Diego","CA",22565
+"90272","Pacific Palisades","Los Angeles","CA",22551
+"90292","Marina Del Rey","Los Angeles","CA",22490
+"92118","Coronado","San Diego","CA",22484
+"90720","Los Alamitos","Orange","CA",22389
+"95135","San Jose","Santa Clara","CA",22358
+"94089","Sunnyvale","Santa Clara","CA",22313
+"90732","San Pedro","Los Angeles","CA",22273
+"92225","Blythe","Riverside","CA",22149
+"94579","San Leandro","Alameda","CA",22040
+"94703","Berkeley","Alameda","CA",21937
+"95620","Dixon","Solano","CA",21854
+"90015","Los Angeles","Los Angeles","CA",21801
+"92585","Sun City","Riverside","CA",21732
+"95818","Sacramento","Sacramento","CA",21732
+"90717","Lomita","Los Angeles","CA",21696
+"92354","Loma Linda","San Bernardino","CA",21679
+"92501","Riverside","Riverside","CA",21656
+"92663","Newport Beach","Orange","CA",21572
+"93263","Shafter","Kern","CA",21572
+"95330","Lathrop","San Joaquin","CA",21552
+"95521","Arcata","Humboldt","CA",21462
+"95405","Santa Rosa","Sonoma","CA",21448
+"94127","San Francisco","San Francisco","CA",21423
+"91101","Pasadena","Los Angeles","CA",21394
+"90603","Whittier","Los Angeles","CA",21299
+"95827","Sacramento","Sacramento","CA",21185
+"94706","Albany","Alameda","CA",21040
+"90068","Los Angeles","Los Angeles","CA",20982
+"93560","Rosamond","Kern","CA",20929
+"94596","Walnut Creek","Contra Costa","CA",20822
+"93444","Nipomo","San Luis Obispo","CA",20775
+"95138","San Jose","Santa Clara","CA",20766
+"92865","Orange","Orange","CA",20741
+"92808","Anaheim","Orange","CA",20667
+"95841","Sacramento","Sacramento","CA",20586
+"96130","Susanville","Lassen","CA",20553
+"95949","Grass Valley","Nevada","CA",20519
+"95965","Oroville","Butte","CA",20460
+"91361","Westlake Village","Ventura","CA",20443
+"90069","West Hollywood","Los Angeles","CA",20435
+"91011","La Canada Flintridge","Los Angeles","CA",20423
+"91381","Stevenson Ranch","Los Angeles","CA",20371
+"93103","Santa Barbara","Santa Barbara","CA",20353
+"94019","Half Moon Bay","San Mateo","CA",20314
+"94503","American Canyon","Napa","CA",20306
+"91501","Burbank","Los Angeles","CA",20300
+"93023","Ojai","Ventura","CA",20231
+"91040","Sunland","Los Angeles","CA",20207
+"95110","San Jose","Santa Clara","CA",20203
+"93630","Kerman","Fresno","CA",20195
+"92887","Yorba Linda","Orange","CA",20194
+"91902","Bonita","San Diego","CA",20138
+"90715","Lakewood","Los Angeles","CA",20136
+"94519","Concord","Contra Costa","CA",20121
+"92586","Sun City","Riverside","CA",20032
+"90210","Beverly Hills","Los Angeles","CA",19909
+"92264","Palm Springs","Riverside","CA",19881
+"95819","Sacramento","Sacramento","CA",19659
+"90254","Hermosa Beach","Los Angeles","CA",19650
+"92603","Irvine","Orange","CA",19650
+"92377","Rialto","San Bernardino","CA",19556
+"94022","Los Altos","Santa Clara","CA",19378
+"91602","North Hollywood","Los Angeles","CA",19358
+"94563","Orinda","Contra Costa","CA",19341
+"91345","Mission Hills","Los Angeles","CA",19205
+"94564","Pinole","Contra Costa","CA",19200
+"92029","Escondido","San Diego","CA",19149
+"95519","Mckinleyville","Humboldt","CA",19099
+"92106","San Diego","San Diego","CA",19080
+"91390","Santa Clarita","Los Angeles","CA",19053
+"94945","Novato","Marin","CA",19035
+"91723","Covina","Los Angeles","CA",18875
+"93927","Greenfield","Monterey","CA",18778
+"91204","Glendale","Los Angeles","CA",18720
+"90814","Long Beach","Los Angeles","CA",18587
+"91506","Burbank","Los Angeles","CA",18575
+"91901","Alpine","San Diego","CA",18558
+"93247","Lindsay","Tulare","CA",18522
+"90265","Malibu","Los Angeles","CA",18389
+"96161","Truckee","Nevada","CA",18333
+"90502","Torrance","Los Angeles","CA",18188
+"92270","Rancho Mirage","Riverside","CA",18075
+"92082","Valley Center","San Diego","CA",18065
+"95602","Auburn","Placer","CA",18063
+"93210","Coalinga","Fresno","CA",18025
+"93268","Taft","Kern","CA",17964
+"94595","Walnut Creek","Contra Costa","CA",17938
+"95959","Nevada City","Nevada","CA",17910
+"92371","Phelan","San Bernardino","CA",17882
+"93015","Fillmore","Ventura","CA",17817
+"95366","Ripon","San Joaquin","CA",17654
+"95448","Healdsburg","Sonoma","CA",17482
+"92587","Sun City","Riverside","CA",17468
+"94949","Novato","Marin","CA",17452
+"93111","Santa Barbara","Santa Barbara","CA",17263
+"95816","Sacramento","Sacramento","CA",17217
+"94301","Palo Alto","Santa Clara","CA",17191
+"93930","King City","Monterey","CA",17142
+"94702","Berkeley","Alameda","CA",17092
+"94618","Oakland","Alameda","CA",17041
+"90701","Artesia","Los Angeles","CA",16858
+"90245","El Segundo","Los Angeles","CA",16850
+"93241","Lamont","Kern","CA",16834
+"95334","Livingston","Merced","CA",16787
+"92582","San Jacinto","Riverside","CA",16783
+"93110","Santa Barbara","Santa Barbara","CA",16660
+"93013","Carpinteria","Santa Barbara","CA",16644
+"92845","Garden Grove","Orange","CA",16600
+"90670","Santa Fe Springs","Los Angeles","CA",16578
+"95391","Tracy","San Joaquin","CA",16562
+"96022","Cottonwood","Shasta","CA",16442
+"93728","Fresno","Fresno","CA",16382
+"94556","Moraga","Contra Costa","CA",16368
+"91914","Chula Vista","San Diego","CA",16357
+"93402","Los Osos","San Luis Obispo","CA",16350
+"93631","Kingsburg","Fresno","CA",16349
+"92637","Laguna Hills","Orange","CA",16228
+"96021","Corning","Tehama","CA",16228
+"93648","Parlier","Fresno","CA",16194
+"93250","Mc Farland","Kern","CA",16088
+"94612","Oakland","Alameda","CA",16062
+"91208","Glendale","Los Angeles","CA",16049
+"90623","La Palma","Orange","CA",15813
+"95203","Stockton","San Joaquin","CA",15775
+"95673","Rio Linda","Sacramento","CA",15753
+"94305","Stanford","Santa Clara","CA",15730
+"94960","San Anselmo","Marin","CA",15725
+"95252","Valley Springs","Calaveras","CA",15703
+"94507","Alamo","Contra Costa","CA",15646
+"93950","Pacific Grove","Monterey","CA",15595
+"95422","Clearlake","Lake","CA",15550
+"94552","Castro Valley","Alameda","CA",15412
+"90305","Inglewood","Los Angeles","CA",15397
+"95066","Scotts Valley","Santa Cruz","CA",15217
+"93543","Littlerock","Los Angeles","CA",15135
+"92274","Thermal","Riverside","CA",15118
+"91436","Encino","Los Angeles","CA",15070
+"95963","Orland","Glenn","CA",15043
+"92866","Orange","Orange","CA",15017
+"91203","Glendale","Los Angeles","CA",15000
+"95605","West Sacramento","Yolo","CA",14960
+"95130","San Jose","Santa Clara","CA",14863
+"90232","Culver City","Los Angeles","CA",14660
+"95437","Fort Bragg","Mendocino","CA",14632
+"94502","Alameda","Alameda","CA",14619
+"94108","San Francisco","San Francisco","CA",14550
+"95304","Tracy","San Joaquin","CA",14539
+"95368","Salida","Stanislaus","CA",14520
+"92408","San Bernardino","San Bernardino","CA",14434
+"93514","Bishop","Inyo","CA",14412
+"94041","Mountain View","Santa Clara","CA",14394
+"90716","Hawaiian Gardens","Los Angeles","CA",14344
+"93221","Exeter","Tulare","CA",14328
+"95540","Fortuna","Humboldt","CA",14305
+"95388","Winton","Merced","CA",14242
+"94542","Hayward","Alameda","CA",14217
+"94805","Richmond","Contra Costa","CA",14208
+"92610","Foothill Ranch","Orange","CA",14149
+"95650","Loomis","Placer","CA",14059
+"95315","Delhi","Merced","CA",14019
+"92014","Del Mar","San Diego","CA",13863
+"91377","Oak Park","Ventura","CA",13730
+"93505","California City","Kern","CA",13606
+"91108","San Marino","Los Angeles","CA",13538
+"93433","Grover Beach","San Luis Obispo","CA",13538
+"95954","Magalia","Butte","CA",13495
+"94517","Clayton","Contra Costa","CA",13476
+"95817","Sacramento","Sacramento","CA",13461
+"94705","Berkeley","Alameda","CA",13365
+"95030","Los Gatos","Santa Clara","CA",13288
+"90212","Beverly Hills","Los Angeles","CA",13156
+"95320","Escalon","San Joaquin","CA",13094
+"95360","Newman","Stanislaus","CA",13029
+"93204","Avenal","Kings","CA",12923
+"95490","Willits","Mendocino","CA",12914
+"93923","Carmel","Monterey","CA",12833
+"94920","Belvedere Tiburon","Marin","CA",12797
+"93640","Mendota","Fresno","CA",12727
+"90293","Playa Del Rey","Los Angeles","CA",12694
+"90040","Los Angeles","Los Angeles","CA",12645
+"92075","Solana Beach","San Diego","CA",12624
+"94904","Greenbrae","Marin","CA",12590
+"94065","Redwood City","San Mateo","CA",12579
+"92313","Grand Terrace","San Bernardino","CA",12512
+"91105","Pasadena","Los Angeles","CA",12191
+"92625","Corona Del Mar","Orange","CA",12148
+"92055","Camp Pendleton","San Diego","CA",12120
+"93908","Salinas","Monterey","CA",12093
+"93301","Bakersfield","Kern","CA",12028
+"90013","Los Angeles","Los Angeles","CA",11937
+"95742","Rancho Cordova","Sacramento","CA",11921
+"94707","Berkeley","Alameda","CA",11916
+"90402","Santa Monica","Los Angeles","CA",11866
+"94709","Berkeley","Alameda","CA",11740
+"93614","Coarsegold","Madera","CA",11676
+"95451","Kelseyville","Lake","CA",11627
+"91502","Burbank","Los Angeles","CA",11598
+"93109","Santa Barbara","Santa Barbara","CA",11573
+"95832","Sacramento","Sacramento","CA",11518
+"90248","Gardena","Los Angeles","CA",11512
+"94708","Berkeley","Alameda","CA",11455
+"94965","Sausalito","Marin","CA",11408
+"91207","Glendale","Los Angeles","CA",11371
+"92314","Big Bear City","San Bernardino","CA",11361
+"95814","Sacramento","Sacramento","CA",11340
+"95357","Modesto","Stanislaus","CA",11322
+"92007","Cardiff By The Sea","San Diego","CA",11234
+"95948","Gridley","Butte","CA",11173
+"95453","Lakeport","Lake","CA",11092
+"91024","Sierra Madre","Los Angeles","CA",11006
+"95640","Ione","Amador","CA",10977
+"93442","Morro Bay","San Luis Obispo","CA",10976
+"95073","Soquel","Santa Cruz","CA",10949
+"95953","Live Oak","Sutter","CA",10942
+"95338","Mariposa","Mariposa","CA",10898
+"93108","Santa Barbara","Santa Barbara","CA",10896
+"93647","Orosi","Tulare","CA",10896
+"93646","Orange Cove","Fresno","CA",10873
+"95012","Castroville","Monterey","CA",10792
+"93223","Farmersville","Tulare","CA",10742
+"95386","Waterford","Stanislaus","CA",10587
+"95425","Cloverdale","Sonoma","CA",10586
+"95322","Gustine","Merced","CA",10546
+"91978","Spring Valley","San Diego","CA",10518
+"95119","San Jose","Santa Clara","CA",10472
+"94572","Rodeo","Contra Costa","CA",10411
+"93622","Firebaugh","Fresno","CA",10395
+"95694","Winters","Yolo","CA",10386
+"92254","Mecca","Riverside","CA",10385
+"95064","Santa Cruz","Santa Cruz","CA",10299
+"93701","Fresno","Fresno","CA",10274
+"92567","Nuevo","Riverside","CA",10228
+"93219","Earlimart","Tulare","CA",10167
+"96019","Shasta Lake","Shasta","CA",10111
+"95326","Hughson","Stanislaus","CA",9888
+"94925","Corte Madera","Marin","CA",9866
+"94571","Rio Vista","Solano","CA",9784
+"95713","Colfax","Placer","CA",9764
+"93286","Woodlake","Tulare","CA",9755
+"92657","Newport Coast","Orange","CA",9670
+"96097","Yreka","Siskiyou","CA",9647
+"95033","Los Gatos","Santa Clara","CA",9597
+"92252","Joshua Tree","San Bernardino","CA",9394
+"95946","Penn Valley","Nevada","CA",9370
+"90094","Los Angeles","Los Angeles","CA",9368
+"93546","Mammoth Lakes","Mono","CA",9359
+"93926","Gonzales","Monterey","CA",9262
+"95006","Boulder Creek","Santa Cruz","CA",9238
+"94105","San Francisco","San Francisco","CA",9155
+"92310","Fort Irwin","San Bernardino","CA",9086
+"92359","Mentone","San Bernardino","CA",9056
+"95010","Capitola","Santa Cruz","CA",9030
+"90077","Los Angeles","Los Angeles","CA",8993
+"93644","Oakhurst","Madera","CA",8981
+"92250","Holtville","Imperial","CA",8979
+"93465","Templeton","San Luis Obispo","CA",8914
+"93620","Dos Palos","Merced","CA",8889
+"92067","Rancho Santa Fe","San Diego","CA",8756
+"91020","Montrose","Los Angeles","CA",8720
+"94930","Fairfax","Marin","CA",8678
+"94574","Saint Helena","Napa","CA",8677
+"92325","Crestline","San Bernardino","CA",8621
+"94931","Cotati","Sonoma","CA",8601
+"92320","Calimesa","Riverside","CA",8597
+"92655","Midway City","Orange","CA",8415
+"95988","Willows","Glenn","CA",8381
+"95065","Santa Cruz","Santa Cruz","CA",8355
+"90014","Los Angeles","Los Angeles","CA",8335
+"91935","Jamul","San Diego","CA",8332
+"92548","Homeland","Riverside","CA",8273
+"95726","Pollock Pines","El Dorado","CA",8170
+"93449","Pismo Beach","San Luis Obispo","CA",8116
+"93463","Solvang","Santa Barbara","CA",8025
+"95324","Hilmar","Merced","CA",8016
+"90211","Beverly Hills","Los Angeles","CA",7969
+"92241","Desert Hot Springs","Riverside","CA",7904
+"92249","Heber","Imperial","CA",7898
+"93625","Fowler","Fresno","CA",7862
+"90056","Los Angeles","Los Angeles","CA",7795
+"92276","Thousand Palms","Riverside","CA",7772
+"95932","Colusa","Colusa","CA",7742
+"95327","Jamestown","Tuolumne","CA",7711
+"95005","Ben Lomond","Santa Cruz","CA",7710
+"95019","Freedom","Santa Cruz","CA",7703
+"93510","Acton","Los Angeles","CA",7626
+"92233","Calipatria","Imperial","CA",7618
+"93721","Fresno","Fresno","CA",7611
+"95220","Acampo","San Joaquin","CA",7538
+"94710","Berkeley","Alameda","CA",7461
+"94027","Atherton","San Mateo","CA",7444
+"94515","Calistoga","Napa","CA",7436
+"93445","Oceano","San Luis Obispo","CA",7383
+"93434","Guadalupe","Santa Barbara","CA",7350
+"95139","San Jose","Santa Clara","CA",7293
+"93234","Huron","Fresno","CA",7260
+"90401","Santa Monica","Los Angeles","CA",7256
+"93022","Oak View","Ventura","CA",7232
+"94939","Larkspur","Marin","CA",7108
+"95018","Felton","Santa Cruz","CA",7060
+"96067","Mount Shasta","Siskiyou","CA",6910
+"94028","Portola Valley","San Mateo","CA",6868
+"95658","Newcastle","Placer","CA",6853
+"95642","Jackson","Amador","CA",6826
+"95631","Foresthill","Placer","CA",6800
+"95693","Wilton","Sacramento","CA",6759
+"95316","Denair","Stanislaus","CA",6616
+"93591","Palmdale","Los Angeles","CA",6579
+"93924","Carmel Valley","Monterey","CA",6568
+"96094","Weed","Siskiyou","CA",6556
+"93615","Cutler","Tulare","CA",6513
+"92342","Helendale","San Bernardino","CA",6508
+"92624","Capistrano Beach","Orange","CA",6402
+"95436","Forestville","Sonoma","CA",6352
+"93267","Strathmore","Tulare","CA",6347
+"93240","Lake Isabella","Kern","CA",6343
+"95626","Elverta","Sacramento","CA",6335
+"93656","Riverdale","Fresno","CA",6323
+"92372","Pinon Hills","San Bernardino","CA",6282
+"95683","Sloughhouse","Sacramento","CA",6279
+"95971","Quincy","Plumas","CA",6254
+"95987","Williams","Colusa","CA",6119
+"93427","Buellton","Santa Barbara","CA",6071
+"92356","Lucerne Valley","San Bernardino","CA",6065
+"95046","San Martin","Santa Clara","CA",6025
+"95202","Stockton","San Joaquin","CA",6001
+"93428","Cambria","San Luis Obispo","CA",5981
+"93256","Pixley","Tulare","CA",5939
+"92861","Villa Park","Orange","CA",5872
+"92352","Lake Arrowhead","San Bernardino","CA",5729
+"95470","Redwood Valley","Mendocino","CA",5719
+"95619","Diamond Springs","El Dorado","CA",5674
+"93609","Caruthers","Fresno","CA",5586
+"93270","Terra Bella","Tulare","CA",5542
+"96101","Alturas","Modoc","CA",5500
+"92363","Needles","San Bernardino","CA",5407
+"90290","Topanga","Los Angeles","CA",5371
+"95709","Camino","El Dorado","CA",5315
+"92315","Big Bear Lake","San Bernardino","CA",5234
+"95672","Rescue","El Dorado","CA",5220
+"95692","Wheatland","Yuba","CA",5152
+"95666","Pioneer","Amador","CA",5113
+"95446","Guerneville","Sonoma","CA",5100
+"95231","French Camp","San Joaquin","CA",5092
+"95222","Angels Camp","Calaveras","CA",5090
+"92210","Indian Wells","Riverside","CA",5049
+"92003","Bonsall","San Diego","CA",5042
+"95912","Arbuckle","Colusa","CA",5010
+"93460","Santa Ynez","Santa Barbara","CA",4929
+"93501","Mojave","Kern","CA",4861
+"95249","San Andreas","Calaveras","CA",4854
+"95722","Meadow Vista","Placer","CA",4822
+"93225","Frazier Park","Kern","CA",4816
+"96013","Burney","Shasta","CA",4810
+"96064","Montague","Siskiyou","CA",4769
+"92278","Twentynine Palms","San Bernardino","CA",4737
+"92823","Brea","Orange","CA",4721
+"95685","Sutter Creek","Amador","CA",4711
+"95365","Planada","Merced","CA",4710
+"92382","Running Springs","San Bernardino","CA",4709
+"92539","Anza","Riverside","CA",4703
+"94005","Brisbane","San Mateo","CA",4692
+"95665","Pine Grove","Amador","CA",4664
+"92121","San Diego","San Diego","CA",4655
+"92397","Wrightwood","San Bernardino","CA",4571
+"94951","Penngrove","Sonoma","CA",4571
+"95328","Keyes","Stanislaus","CA",4518
+"95228","Copperopolis","Calaveras","CA",4501
+"93272","Tipton","Tulare","CA",4454
+"96088","Shingletown","Shasta","CA",4419
+"92590","Temecula","Riverside","CA",4388
+"91906","Campo","San Diego","CA",4351
+"95938","Durham","Butte","CA",4350
+"94508","Angwin","Napa","CA",4298
+"95247","Murphys","Calaveras","CA",4270
+"95627","Esparto","Yolo","CA",4263
+"93660","San Joaquin","Fresno","CA",4228
+"95236","Linden","San Joaquin","CA",4223
+"93235","Ivanhoe","Tulare","CA",4198
+"95045","San Juan Bautista","San Benito","CA",4181
+"95655","Mather","Sacramento","CA",4178
+"93953","Pebble Beach","Monterey","CA",4117
+"93451","San Miguel","San Luis Obispo","CA",4089
+"95917","Biggs","Butte","CA",4030
+"94129","San Francisco","San Francisco","CA",3994
+"93602","Auberry","Fresno","CA",3967
+"95614","Cool","El Dorado","CA",3961
+"95004","Aromas","Monterey","CA",3956
+"96093","Weaverville","Trinity","CA",3955
+"96073","Palo Cedro","Shasta","CA",3939
+"90704","Avalon","Los Angeles","CA",3922
+"96055","Los Molinos","Tehama","CA",3914
+"94304","Palo Alto","Santa Clara","CA",3902
+"91708","Chino","San Bernardino","CA",3892
+"95258","Woodbridge","San Joaquin","CA",3881
+"90089","Los Angeles","Los Angeles","CA",3862
+"94535","Travis Afb","Solano","CA",3857
+"95633","Garden Valley","El Dorado","CA",3857
+"95383","Twain Harte","Tuolumne","CA",3828
+"93202","Armona","Kings","CA",3777
+"95546","Hoopa","Humboldt","CA",3768
+"93675","Squaw Valley","Fresno","CA",3759
+"95423","Clearlake Oaks","Lake","CA",3757
+"96035","Gerber","Tehama","CA",3731
+"95623","El Dorado","El Dorado","CA",3730
+"90010","Los Angeles","Los Angeles","CA",3702
+"93523","Edwards","Kern","CA",3700
+"94038","Moss Beach","San Mateo","CA",3687
+"95053","Santa Clara","Santa Clara","CA",3678
+"92140","San Diego","San Diego","CA",3669
+"94111","San Francisco","San Francisco","CA",3620
+"95379","Tuolumne","Tuolumne","CA",3586
+"93242","Laton","Fresno","CA",3541
+"95237","Lockeford","San Joaquin","CA",3531
+"93650","Fresno","Fresno","CA",3477
+"95634","Georgetown","El Dorado","CA",3445
+"95562","Rio Dell","Humboldt","CA",3422
+"94964","San Quentin","Marin","CA",3418
+"92230","Cabazon","Riverside","CA",3406
+"96143","Kings Beach","Placer","CA",3391
+"95684","Somerset","El Dorado","CA",3384
+"93437","Lompoc","Santa Barbara","CA",3379
+"93921","Carmel","Monterey","CA",3379
+"95321","Groveland","Tuolumne","CA",3337
+"96137","Westwood","Lassen","CA",3336
+"95457","Lower Lake","Lake","CA",3330
+"96114","Janesville","Lassen","CA",3316
+"92256","Morongo Valley","San Bernardino","CA",3282
+"91330","Northridge","Los Angeles","CA",3273
+"93265","Springville","Tulare","CA",3271
+"95982","Sutter","Sutter","CA",3229
+"92661","Newport Beach","Orange","CA",3225
+"95442","Glen Ellen","Sonoma","CA",3136
+"93066","Somis","Ventura","CA",3112
+"94525","Crockett","Contra Costa","CA",3094
+"94599","Yountville","Napa","CA",3078
+"94130","San Francisco","San Francisco","CA",3064
+"96122","Portola","Plumas","CA",3044
+"92536","Aguanga","Riverside","CA",3028
+"95458","Lucerne","Lake","CA",3019
+"94720","Berkeley","Alameda","CA",2971
+"93643","North Fork","Madera","CA",2960
+"93453","Santa Margarita","San Luis Obispo","CA",2953
+"93430","Cayucos","San Luis Obispo","CA",2947
+"90021","Los Angeles","Los Angeles","CA",2922
+"95536","Ferndale","Humboldt","CA",2898
+"93532","Lake Hughes","Los Angeles","CA",2871
+"95223","Arnold","Calaveras","CA",2860
+"92281","Westmorland","Imperial","CA",2859
+"96041","Hayfork","Trinity","CA",2797
+"92365","Newberry Springs","San Bernardino","CA",2792
+"95951","Hamilton City","Glenn","CA",2788
+"90058","Los Angeles","Los Angeles","CA",2758
+"93252","Maricopa","Kern","CA",2738
+"93261","Richgrove","Tulare","CA",2715
+"94037","Montara","San Mateo","CA",2692
+"95485","Upper Lake","Lake","CA",2688
+"95329","La Grange","Stanislaus","CA",2685
+"93616","Del Rey","Fresno","CA",2664
+"95918","Browns Valley","Yuba","CA",2643
+"92662","Newport Beach","Orange","CA",2606
+"95663","Penryn","Placer","CA",2602
+"95428","Covelo","Mendocino","CA",2563
+"95464","Nice","Lake","CA",2538
+"96032","Fort Jones","Siskiyou","CA",2510
+"92391","Twin Peaks","San Bernardino","CA",2479
+"95333","Le Grand","Merced","CA",2479
+"92549","Idyllwild","Riverside","CA",2464
+"92275","Salton City","Imperial","CA",2456
+"95461","Middletown","Lake","CA",2440
+"93271","Three Rivers","Tulare","CA",2432
+"96027","Etna","Siskiyou","CA",2416
+"93667","Tollhouse","Fresno","CA",2415
+"92004","Borrego Springs","San Diego","CA",2414
+"92145","San Diego","San Diego","CA",2389
+"91962","Pine Valley","San Diego","CA",2378
+"92061","Pauma Valley","San Diego","CA",2376
+"95669","Plymouth","Amador","CA",2348
+"93283","Weldon","Kern","CA",2343
+"93516","Boron","Kern","CA",2335
+"90067","Los Angeles","Los Angeles","CA",2314
+"95460","Mendocino","Mendocino","CA",2277
+"95570","Trinidad","Humboldt","CA",2274
+"96020","Chester","Plumas","CA",2242
+"92036","Julian","San Diego","CA",2221
+"95445","Gualala","Mendocino","CA",2201
+"95454","Laytonville","Mendocino","CA",2198
+"95372","Soulsbyville","Tuolumne","CA",2164
+"93925","Chualar","Monterey","CA",2155
+"92676","Silverado","Orange","CA",2154
+"96145","Tahoe City","Placer","CA",2151
+"95002","Alviso","Santa Clara","CA",2146
+"92285","Landers","San Bernardino","CA",2142
+"92386","Sugarloaf","San Bernardino","CA",2140
+"95690","Walnut Grove","Sacramento","CA",2122
+"95638","Herald","Sacramento","CA",2121
+"95465","Occidental","Sonoma","CA",2104
+"92398","Yermo","San Bernardino","CA",2098
+"93249","Lost Hills","Kern","CA",2088
+"93285","Wofford Heights","Kern","CA",2085
+"93258","Porterville","Tulare","CA",2075
+"95542","Garberville","Humboldt","CA",2072
+"95567","Smith River","Del Norte","CA",2066
+"95441","Geyserville","Sonoma","CA",2053
+"95469","Potter Valley","Mendocino","CA",2015
+"94511","Bethel Island","Contra Costa","CA",2010
+"93040","Piru","Ventura","CA",2007
+"95947","Greenville","Plumas","CA",2005
+"95310","Columbia","Tuolumne","CA",1995
+"93626","Friant","Fresno","CA",1983
+"93206","Buttonwillow","Kern","CA",1970
+"91916","Descanso","San Diego","CA",1962
+"96025","Dunsmuir","Siskiyou","CA",1957
+"96113","Herlong","Lassen","CA",1957
+"95113","San Jose","Santa Clara","CA",1939
+"93243","Lebec","Kern","CA",1938
+"92401","San Bernardino","San Bernardino","CA",1929
+"96134","Tulelake","Siskiyou","CA",1918
+"93651","Prather","Fresno","CA",1915
+"93545","Lone Pine","Inyo","CA",1899
+"95245","Mokelumne Hill","Calaveras","CA",1851
+"90263","Malibu","Los Angeles","CA",1846
+"96118","Loyalton","Sierra","CA",1808
+"93553","Pearblossom","Los Angeles","CA",1781
+"95374","Stevinson","Merced","CA",1758
+"93601","Ahwahnee","Madera","CA",1726
+"95524","Bayside","Humboldt","CA",1724
+"93562","Trona","San Bernardino","CA",1723
+"92273","Seeley","Imperial","CA",1704
+"95689","Volcano","Amador","CA",1698
+"92283","Winterhaven","Imperial","CA",1694
+"93513","Big Pine","Inyo","CA",1692
+"95421","Cazadero","Sonoma","CA",1681
+"95346","Mi Wuk Village","Tuolumne","CA",1661
+"95449","Hopland","Mendocino","CA",1656
+"95645","Knights Landing","Yolo","CA",1652
+"95311","Coulterville","Mariposa","CA",1649
+"93440","Los Alamos","Santa Barbara","CA",1648
+"95903","Beale Afb","Yuba","CA",1630
+"95211","Stockton","San Joaquin","CA",1629
+"93527","Inyokern","Kern","CA",1618
+"95977","Smartville","Yuba","CA",1617
+"93426","Bradley","Monterey","CA",1604
+"95664","Pilot Hill","El Dorado","CA",1589
+"95975","Rough And Ready","Nevada","CA",1584
+"96056","Mcarthur","Shasta","CA",1572
+"95573","Willow Creek","Humboldt","CA",1554
+"95641","Isleton","Sacramento","CA",1548
+"92086","Warner Springs","San Diego","CA",1544
+"95319","Empire","Stanislaus","CA",1529
+"93239","Kettleman City","Kings","CA",1520
+"95528","Carlotta","Humboldt","CA",1493
+"96052","Lewiston","Trinity","CA",1493
+"93222","Frazier Park","Kern","CA",1481
+"91905","Boulevard","San Diego","CA",1478
+"95560","Redway","Humboldt","CA",1466
+"94514","Byron","Contra Costa","CA",1461
+"92059","Pala","San Diego","CA",1456
+"93461","Shandon","San Luis Obispo","CA",1451
+"96107","Coleville","Mono","CA",1450
+"95937","Dunnigan","Yolo","CA",1442
+"95955","Maxwell","Colusa","CA",1435
+"95525","Blue Lake","Humboldt","CA",1433
+"93201","Alpaugh","Tulare","CA",1431
+"96103","Blairsden-Graeagle","Plumas","CA",1417
+"93266","Stratford","Kings","CA",1406
+"95426","Cobb","Lake","CA",1404
+"93920","Big Sur","Monterey","CA",1403
+"94957","Ross","Marin","CA",1400
+"95389","Yosemite National Park","Mariposa","CA",1392
+"93205","Bodfish","Kern","CA",1384
+"93653","Raymond","Madera","CA",1383
+"95551","Loleta","Humboldt","CA",1374
+"92282","White Water","Riverside","CA",1373
+"96028","Fall River Mills","Shasta","CA",1359
+"95255","West Point","Calaveras","CA",1358
+"96051","Lakehead","Shasta","CA",1351
+"92091","Rancho Santa Fe","San Diego","CA",1343
+"94973","Woodacre","Marin","CA",1342
+"94020","La Honda","San Mateo","CA",1334
+"92257","Niland","Imperial","CA",1332
+"96008","Bella Vista","Shasta","CA",1328
+"95468","Point Arena","Mendocino","CA",1325
+"92242","Earp","San Bernardino","CA",1306
+"96057","Mccloud","Siskiyou","CA",1299
+"95968","Palermo","Butte","CA",1287
+"92561","Mountain Center","Riverside","CA",1278
+"95962","Oregon House","Yuba","CA",1278
+"95462","Monte Rio","Sonoma","CA",1265
+"95415","Boonville","Mendocino","CA",1262
+"95313","Crows Landing","Stanislaus","CA",1225
+"94956","Point Reyes Station","Marin","CA",1224
+"95548","Klamath","Del Norte","CA",1224
+"95323","Hickman","Stanislaus","CA",1222
+"95916","Berry Creek","Butte","CA",1216
+"95686","Thornton","San Joaquin","CA",1209
+"95039","Moss Landing","Monterey","CA",1195
+"92518","March Air Force Base","Riverside","CA",1186
+"92339","Forest Falls","San Bernardino","CA",1185
+"95919","Brownsville","Yuba","CA",1182
+"93544","Llano","Los Angeles","CA",1181
+"93668","Tranquillity","Fresno","CA",1173
+"94575","Moraga","Contra Costa","CA",1170
+"92321","Cedar Glen","San Bernardino","CA",1166
+"95497","The Sea Ranch","Sonoma","CA",1161
+"95410","Albion","Mendocino","CA",1159
+"95254","Wallace","Calaveras","CA",1151
+"95681","Sheridan","Placer","CA",1148
+"94924","Bolinas","Marin","CA",1134
+"93432","Creston","San Luis Obispo","CA",1125
+"96023","Dorris","Siskiyou","CA",1114
+"92368","Oro Grande","San Bernardino","CA",1100
+"94592","Vallejo","Solano","CA",1087
+"95636","Grizzly Flats","El Dorado","CA",1087
+"94060","Pescadero","San Mateo","CA",1081
+"95612","Clarksburg","Yolo","CA",1078
+"95549","Kneeland","Humboldt","CA",1050
+"96120","Markleeville","Alpine","CA",1044
+"93624","Five Points","Fresno","CA",1041
+"95246","Mountain Ranch","Calaveras","CA",1032
+"96140","Carnelian Bay","Placer","CA",1019
+"93238","Kernville","Kern","CA",1015
+"93441","Los Olivos","Santa Barbara","CA",1013
+"96062","Millville","Shasta","CA",1007
+"91963","Potrero","San Diego","CA",999
+"95615","Courtland","Sacramento","CA",999
+"95466","Philo","Mendocino","CA",993
+"95369","Snelling","Merced","CA",990
+"95589","Whitethorn","Humboldt","CA",982
+"95547","Hydesville","Humboldt","CA",978
+"93518","Caliente","Kern","CA",975
+"95452","Kenwood","Sonoma","CA",970
+"96146","Olympic Valley","Placer","CA",969
+"93666","Sultana","Tulare","CA",952
+"93606","Biola","Fresno","CA",949
+"93608","Cantua Creek","Fresno","CA",940
+"95703","Applegate","Placer","CA",938
+"96024","Douglas City","Trinity","CA",933
+"96044","Hornbrook","Siskiyou","CA",931
+"91917","Dulzura","San Diego","CA",920
+"90073","Los Angeles","Los Angeles","CA",916
+"95553","Miranda","Humboldt","CA",913
+"95674","Rio Oso","Sutter","CA",913
+"95943","Glenn","Glenn","CA",908
+"96039","Happy Camp","Siskiyou","CA",907
+"95317","El Nido","Merced","CA",906
+"95830","Sacramento","Sacramento","CA",902
+"94586","Sunol","Alameda","CA",899
+"95957","Meridian","Sutter","CA",888
+"95306","Catheys Valley","Mariposa","CA",882
+"93665","South Dos Palos","Merced","CA",875
+"93218","Ducor","Tulare","CA",873
+"95303","Ballico","Merced","CA",871
+"94613","Oakland","Alameda","CA",861
+"95659","Nicolaus","Sutter","CA",861
+"93254","New Cuyama","Santa Barbara","CA",858
+"96047","Igo","Shasta","CA",851
+"94923","Bodega Bay","Sonoma","CA",846
+"92347","Hinkley","San Bernardino","CA",843
+"95227","Clements","San Joaquin","CA",842
+"92070","Santa Ysabel","San Diego","CA",829
+"96069","Oak Run","Shasta","CA",828
+"96038","Grenada","Siskiyou","CA",827
+"95960","North San Juan","Nevada","CA",825
+"93928","Jolon","Monterey","CA",820
+"95651","Lotus","El Dorado","CA",819
+"94937","Inverness","Marin","CA",816
+"95914","Bangor","Butte","CA",815
+"93932","Lockwood","Monterey","CA",810
+"95635","Greenwood","El Dorado","CA",807
+"96142","Tahoma","El Dorado","CA",807
+"93450","San Ardo","Monterey","CA",806
+"95701","Alta","Placer","CA",806
+"93452","San Simeon","San Luis Obispo","CA",795
+"95629","Fiddletown","Amador","CA",795
+"94938","Lagunitas","Marin","CA",790
+"92358","Lytle Creek","San Bernardino","CA",782
+"92258","North Palm Springs","Riverside","CA",778
+"93424","Avila Beach","San Luis Obispo","CA",776
+"95439","Fulton","Sonoma","CA",774
+"95565","Scotia","Humboldt","CA",772
+"96109","Doyle","Lassen","CA",758
+"95456","Littleriver","Mendocino","CA",754
+"95345","Midpines","Mariposa","CA",749
+"95668","Pleasant Grove","Sutter","CA",743
+"92327","Daggett","San Bernardino","CA",740
+"93673","Traver","Tulare","CA",740
+"95043","Paicines","San Benito","CA",732
+"96096","Whitmore","Shasta","CA",732
+"95444","Graton","Sonoma","CA",715
+"96048","Junction City","Trinity","CA",713
+"95387","Westley","Stanislaus","CA",710
+"90742","Sunset Beach","Orange","CA",699
+"94567","Pope Valley","Napa","CA",696
+"96148","Tahoe Vista","Placer","CA",696
+"94946","Nicasio","Marin","CA",694
+"91210","Glendale","Los Angeles","CA",689
+"94970","Stinson Beach","Marin","CA",689
+"92322","Cedarpines Park","San Bernardino","CA",686
+"96058","Macdoel","Siskiyou","CA",686
+"95007","Brookdale","Santa Cruz","CA",681
+"96128","Standish","Lassen","CA",674
+"95939","Elk Creek","Glenn","CA",673
+"94933","Forest Knolls","Marin","CA",671
+"95652","Mcclellan","Sacramento","CA",667
+"95543","Gasquet","Del Norte","CA",664
+"95552","Mad River","Trinity","CA",659
+"95420","Caspar","Mendocino","CA",648
+"92135","San Diego","San Diego","CA",646
+"91980","Tecate","San Diego","CA",636
+"92309","Baker","San Bernardino","CA",633
+"93604","Bass Lake","Madera","CA",629
+"95942","Forest Ranch","Butte","CA",629
+"95556","Orleans","Humboldt","CA",627
+"92305","Angelus Oaks","San Bernardino","CA",622
+"95459","Manchester","Mendocino","CA",618
+"95675","River Pines","Amador","CA",607
+"95563","Salyer","Trinity","CA",604
+"94922","Bodega","Sonoma","CA",603
+"95017","Davenport","Santa Cruz","CA",603
+"96104","Cedarville","Modoc","CA",603
+"95935","Dobbins","Yuba","CA",602
+"96059","Manton","Tehama","CA",599
+"92268","Pioneertown","San Bernardino","CA",597
+"95230","Farmington","San Joaquin","CA",597
+"96087","Shasta","Shasta","CA",589
+"95251","Vallecito","Calaveras","CA",582
+"96091","Trinity Center","Trinity","CA",578
+"92066","Ranchita","San Diego","CA",572
+"92678","Trabuco Canyon","Orange","CA",570
+"93526","Independence","Inyo","CA",570
+"95527","Burnt Ranch","Trinity","CA",570
+"95233","Hathaway Pines","Calaveras","CA",567
+"95653","Madison","Yolo","CA",563
+"93255","Onyx","Kern","CA",556
+"92147","San Diego","San Diego","CA",551
+"95970","Princeton","Colusa","CA",551
+"94104","San Francisco","San Francisco","CA",546
+"96015","Canby","Modoc","CA",529
+"93517","Bridgeport","Mono","CA",526
+"95432","Elk","Mendocino","CA",519
+"93529","June Lake","Mono","CA",508
+"94548","Knightsen","Contra Costa","CA",501
+"96033","French Gulch","Shasta","CA",500
+"94963","San Geronimo","Marin","CA",498
+"95941","Forbestown","Butte","CA",497
+"91931","Guatay","San Diego","CA",496
+"96129","Beckwourth","Plumas","CA",496
+"92155","San Diego","San Diego","CA",490
+"95075","Tres Pinos","San Benito","CA",484
+"95585","Leggett","Mendocino","CA",483
+"93954","San Lucas","Monterey","CA",472
+"95225","Burson","Calaveras","CA",470
+"95471","Rio Nido","Sonoma","CA",470
+"96084","Round Mountain","Shasta","CA",458
+"93067","Summerland","Santa Barbara","CA",454
+"95922","Camptonville","Yuba","CA",454
+"93224","Fellows","Kern","CA",453
+"96090","Tehama","Tehama","CA",445
+"95385","Vernalis","San Joaquin","CA",440
+"95714","Dutch Flat","Placer","CA",440
+"94021","Loma Mar","San Mateo","CA",436
+"95257","Wilseyville","Calaveras","CA",433
+"95564","Samoa","Humboldt","CA",432
+"95979","Stonyford","Colusa","CA",430
+"93652","Raisin","Fresno","CA",426
+"95558","Petrolia","Humboldt","CA",423
+"95697","Yolo","Yolo","CA",420
+"96050","Klamath River","Siskiyou","CA",418
+"93563","Valyermo","Los Angeles","CA",408
+"93664","Shaver Lake","Fresno","CA",408
+"95983","Taylorsville","Plumas","CA",403
+"95412","Annapolis","Sonoma","CA",402
+"93244","Lemon Cove","Tulare","CA",395
+"95950","Grimes","Colusa","CA",394
+"95417","Branscomb","Mendocino","CA",389
+"93531","Keene","Kern","CA",388
+"93962","Spreckels","Monterey","CA",385
+"96006","Adin","Modoc","CA",380
+"96016","Cassel","Shasta","CA",375
+"91759","Mt Baldy","Los Angeles","CA",374
+"96065","Montgomery Creek","Shasta","CA",359
+"92328","Death Valley","Inyo","CA",354
+"95041","Mount Hermon","Santa Cruz","CA",353
+"96009","Bieber","Lassen","CA",345
+"93645","O Neals","Madera","CA",344
+"95934","Crescent Mills","Plumas","CA",341
+"96054","Lookout","Modoc","CA",339
+"95555","Orick","Humboldt","CA",337
+"96037","Greenview","Siskiyou","CA",335
+"96075","Paynes Creek","Tehama","CA",331
+"96124","Calpine","Sierra","CA",329
+"95607","Capay","Yolo","CA",327
+"95537","Fields Landing","Humboldt","CA",325
+"95639","Hood","Sacramento","CA",321
+"96117","Litchfield","Lassen","CA",319
+"96121","Milford","Lassen","CA",317
+"92333","Fawnskin","San Bernardino","CA",316
+"93512","Benton","Mono","CA",313
+"96086","Seiad Valley","Siskiyou","CA",309
+"94528","Diablo","Contra Costa","CA",307
+"95837","Sacramento","Sacramento","CA",305
+"95312","Cressey","Merced","CA",304
+"95450","Jenner","Sonoma","CA",298
+"96141","Homewood","Placer","CA",297
+"95569","Redcrest","Humboldt","CA",295
+"96063","Mineral","Tehama","CA",292
+"95511","Alderpoint","Humboldt","CA",290
+"95956","Meadow Valley","Plumas","CA",290
+"94971","Tomales","Marin","CA",288
+"95554","Myers Flat","Humboldt","CA",287
+"95920","Butte City","Glenn","CA",285
+"92134","San Diego","San Diego","CA",280
+"92239","Desert Center","Riverside","CA",274
+"95571","Weott","Humboldt","CA",271
+"95443","Glenhaven","Lake","CA",270
+"95318","El Portal","Mariposa","CA",268
+"90743","Surfside","Orange","CA",267
+"91934","Jacumba","San Diego","CA",267
+"93549","Olancha","Inyo","CA",264
+"92378","Rimforest","San Bernardino","CA",263
+"96092","Vina","Tehama","CA",254
+"95568","Somes Bar","Siskiyou","CA",253
+"95488","Westport","Mendocino","CA",251
+"95493","Witter Springs","Lake","CA",241
+"95606","Brooks","Yolo","CA",240
+"93207","California Hot Springs","Tulare","CA",239
+"93628","Hume","Fresno","CA",239
+"96034","Gazelle","Siskiyou","CA",236
+"94940","Marshall","Marin","CA",234
+"96133","Topaz","Mono","CA",234
+"96135","Vinton","Plumas","CA",230
+"93251","Mc Kittrick","Kern","CA",229
+"95728","Soda Springs","Nevada","CA",229
+"93260","Posey","Tulare","CA",228
+"95637","Guinda","Yolo","CA",227
+"93541","Lee Vining","Mono","CA",226
+"95427","Comptche","Mendocino","CA",222
+"94929","Dillon Beach","Marin","CA",219
+"95526","Bridgeville","Humboldt","CA",210
+"95925","Challenge","Yuba","CA",209
+"96106","Clio","Plumas","CA",209
+"94569","Port Costa","Contra Costa","CA",205
+"92341","Green Valley Lake","San Bernardino","CA",203
+"92385","Skyforest","San Bernardino","CA",202
+"96112","Fort Bidwell","Modoc","CA",202
+"95335","Long Barn","Tuolumne","CA",201
+"96076","Platina","Shasta","CA",200
+"93641","Miramonte","Fresno","CA",198
+"95736","Weimar","Placer","CA",198
+"94074","San Gregorio","San Mateo","CA",197
+"95431","Eldridge","Sonoma","CA",196
+"96029","Flournoy","Tehama","CA",195
+"96068","Nubieber","Lassen","CA",193
+"95930","Clipper Mills","Butte","CA",191
+"95248","Rail Road Flat","Calaveras","CA",189
+"93605","Big Creek","Fresno","CA",188
+"93627","Helm","Fresno","CA",188
+"93276","Tupman","Kern","CA",186
+"93043","Port Hueneme Cbc Base","Ventura","CA",184
+"96125","Sierra City","Sierra","CA",184
+"93603","Badger","Tulare","CA",183
+"95595","Zenia","Trinity","CA",182
+"93226","Glennville","Kern","CA",180
+"95698","Zamora","Yolo","CA",179
+"96040","Hat Creek","Shasta","CA",178
+"96074","Paskenta","Tehama","CA",174
+"93524","Edwards","Kern","CA",168
+"95224","Avery","Calaveras","CA",166
+"96046","Hyampom","Trinity","CA",165
+"93669","Wishon","Madera","CA",164
+"95232","Glencoe","Calaveras","CA",164
+"95978","Stirling City","Butte","CA",163
+"96011","Big Bend","Shasta","CA",162
+"96110","Eagleville","Modoc","CA",161
+"96116","Likely","Modoc","CA",159
+"95463","Navarro","Mendocino","CA",152
+"96017","Castella","Shasta","CA",152
+"94516","Canyon","Contra Costa","CA",148
+"92389","Tecopa","Inyo","CA",146
+"96010","Big Bar","Trinity","CA",146
+"96014","Callahan","Siskiyou","CA",145
+"95601","Amador City","Amador","CA",144
+"91046","Verdugo City","Los Angeles","CA",143
+"90822","Long Beach","Los Angeles","CA",139
+"93528","Johannesburg","Kern","CA",138
+"96031","Forks Of Salmon","Siskiyou","CA",136
+"94128","San Francisco","San Mateo","CA",135
+"94950","Olema","Marin","CA",134
+"95494","Yorkville","Mendocino","CA",125
+"95429","Dos Rios","Mendocino","CA",124
+"93623","Fish Camp","Mariposa","CA",123
+"95514","Blocksburg","Humboldt","CA",117
+"95140","Mount Hamilton","Santa Clara","CA",115
+"96115","Lake City","Modoc","CA",115
+"95936","Downieville","Sierra","CA",114
+"95234","Holt","San Joaquin","CA",113
+"93429","Casmalia","Santa Barbara","CA",111
+"92266","Palo Verde","Imperial","CA",108
+"93042","Point Mugu Nawc","Ventura","CA",107
+"95717","Gold Run","Placer","CA",106
+"96126","Sierraville","Sierra","CA",103
+"95545","Honeydew","Humboldt","CA",101
+"94576","Deer Park","Napa","CA",98
+"93287","Woody","Kern","CA",96
+"95314","Dardanelle","Tuolumne","CA",95
+"92259","Ocotillo","Imperial","CA",94
+"93621","Dunlap","Fresno","CA",94
+"96111","Floriston","Nevada","CA",94
+"96105","Chilcoot","Plumas","CA",93
+"96132","Termo","Lassen","CA",93
+"92060","Palomar Mountain","San Diego","CA",92
+"92332","Essex","San Bernardino","CA",92
+"95715","Emigrant Gap","Placer","CA",91
+"95604","Auburn","Placer","CA",87
+"96049","Redding","Shasta","CA",87
+"96085","Scott Bar","Siskiyou","CA",85
+"95720","Kyburz","El Dorado","CA",83
+"93592","Trona","San Bernardino","CA",77
+"95013","Coyote","Santa Clara","CA",77
+"95325","Hornitos","Mariposa","CA",77
+"95646","Kirkwood","Alpine","CA",76
+"95486","Villa Grande","Sonoma","CA",73
+"95559","Phillipsville","Humboldt","CA",72
+"95550","Korbel","Humboldt","CA",71
+"95679","Rumsey","Yolo","CA",71
+"95625","Elmira","Solano","CA",67
+"95910","Alleghany","Sierra","CA",65
+"93554","Randsburg","Kern","CA",64
+"95974","Richvale","Butte","CA",64
+"93262","Sequoia National Park","Tulare","CA",63
+"96119","Madeline","Lassen","CA",59
+"93220","Edison","Kern","CA",58
+"93522","Darwin","Inyo","CA",56
+"96108","Davis Creek","Modoc","CA",56
+"95986","Washington","Nevada","CA",53
+"95587","Piercy","Mendocino","CA",49
+"96071","Old Station","Shasta","CA",49
+"93208","Camp Nelson","Tulare","CA",47
+"96136","Wendel","Lassen","CA",42
+"93558","Red Mountain","San Bernardino","CA",40
+"96123","Ravendale","Lassen","CA",38
+"95305","Big Oak Flat","Tuolumne","CA",37
+"95984","Twain","Plumas","CA",33
+"95981","Strawberry Valley","Yuba","CA",32
+"94573","Rutherford","Napa","CA",31
+"95944","Goodyears Bar","Sierra","CA",29
+"95923","Canyondam","Plumas","CA",28
+"94972","Valley Ford","Sonoma","CA",23
+"93519","Cantil","Kern","CA",22
+"92304","Amboy","San Bernardino","CA",21
+"93634","Lakeshore","Fresno","CA",21
+"95699","Drytown","Amador","CA",20
+"95724","Norden","Nevada","CA",20
+"92280","Vidal","San Bernardino","CA",19
+"96061","Mill Creek","Tehama","CA",19
+"94512","Birds Landing","Solano","CA",16
+"95226","Campo Seco","Calaveras","CA",16
+"91948","Mount Laguna","San Diego","CA",15
+"93530","Keeler","Inyo","CA",15
+"95721","Echo Lake","El Dorado","CA",15
+"95435","Finley","Lake","CA",14
+"92384","Shoshone","Inyo","CA",13
+"95680","Ryde","Sacramento","CA",10
+"95735","Twin Bridges","El Dorado","CA",10
+"95430","Duncans Mills","Sonoma","CA",7
+"92267","Parker Dam","San Bernardino","CA",5
+"95375","Strawberry","Tuolumne","CA",5
+"90071","Los Angeles","Los Angeles","CA",0
+"90079","Los Angeles","Los Angeles","CA",0
+"90095","Los Angeles","Los Angeles","CA",0
+"90506","Torrance","Los Angeles","CA",0
+"90747","Carson","Los Angeles","CA",0
+"90831","Long Beach","Los Angeles","CA",0
+"91371","Woodland Hills","Los Angeles","CA",0
+"91608","Universal City","Los Angeles","CA",0
+"92132","San Diego","San Diego","CA",0
+"92222","Bard","Imperial","CA",0
+"92338","Ludlow","San Bernardino","CA",0
+"92364","Nipton","San Bernardino","CA",0
+"93064","Brandeis","Ventura","CA",0
+"93410","San Luis Obispo","San Luis Obispo","CA",0
+"93633","Kings Canyon National Pk","Tulare","CA",0
+"93943","Monterey","Monterey","CA",0
+"94850","Richmond","Contra Costa","CA",0
+"95250","Sheep Ranch","Calaveras","CA",0
+"95364","Pinecrest","Tuolumne","CA",0
+"95915","Belden","Plumas","CA",0
+"96155","South Lake Tahoe","El Dorado","CA",0
